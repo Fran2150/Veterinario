@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sat Sep 19 21:31:35 CST 2026
+comment0.target=Persona
+comment1.params=id nombre telefono
+comment1.target=Persona(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=java.lang.String getId()
+comment3.params=id
+comment3.target=void setId(java.lang.String)
+comment4.target=java.lang.String getNombre()
+comment5.params=nombre
+comment5.target=void setNombre(java.lang.String)
+comment6.target=java.lang.String getTelefono()
+comment7.params=telefono
+comment7.target=void setTelefono(java.lang.String)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sat Sep 19 21:34:16 CST 2026
+comment0.target=DetalleReceta
+comment1.params=medicamento cantidad
+comment1.target=DetalleReceta(Medicamento, int)
+comment2.target=Medicamento getMedicamento()
+comment3.target=int getCantidad()
+numComments=4

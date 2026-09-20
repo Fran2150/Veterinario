@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sat Sep 19 21:34:49 CST 2026
+comment0.target=ChequeoMedico
+comment1.params=idConsulta paciente especialista diagnostico
+comment1.target=ChequeoMedico(java.lang.String, Mascota, Veterinario, java.lang.String)
+comment2.params=detalle
+comment2.target=void agregarMedicamento(DetalleReceta)
+comment3.target=java.lang.String getIdConsulta()
+comment4.target=java.util.Date getFecha()
+comment5.target=Mascota getPaciente()
+comment6.target=Veterinario getEspecialista()
+comment7.target=java.lang.String getDiagnostico()
+comment8.target=java.util.List getReceta()
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Sep 19 21:33:19 CST 2026
+comment0.target=Mascota
+comment1.params=numeroCarnet nombre especie raza edad encargado
+comment1.target=Mascota(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, Encargado)
+comment2.target=java.lang.String getNumeroCarnet()
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String getEspecie()
+comment5.target=java.lang.String getRaza()
+comment6.target=int getEdad()
+comment7.target=Encargado getEncargado()
+numComments=8

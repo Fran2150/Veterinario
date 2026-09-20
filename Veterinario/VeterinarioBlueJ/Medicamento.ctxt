@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sat Sep 19 21:33:47 CST 2026
+comment0.target=Medicamento
+comment1.params=codigo nombre stock
+comment1.target=Medicamento(java.lang.String, java.lang.String, int)
+comment2.target=java.lang.String getCodigo()
+comment3.target=java.lang.String getNombre()
+comment4.target=int getStock()
+comment5.params=stock
+comment5.target=void setStock(int)
+numComments=6

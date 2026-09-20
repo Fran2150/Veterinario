@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sat Sep 19 21:35:16 CST 2026
+comment0.target=Cita
+comment1.params=idCita paciente especialista fechaHora motivo
+comment1.target=Cita(java.lang.String, Mascota, Veterinario, java.util.Date, java.lang.String)
+comment2.target=java.lang.String getIdCita()
+comment3.target=Mascota getPaciente()
+comment4.target=Veterinario getEspecialista()
+comment5.target=java.util.Date getFechaHora()
+comment6.target=java.lang.String getMotivo()
+comment7.target=boolean isCompletada()
+comment8.params=completada
+comment8.target=void setCompletada(boolean)
+numComments=9

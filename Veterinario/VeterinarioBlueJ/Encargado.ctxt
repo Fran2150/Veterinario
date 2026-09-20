@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Sep 19 21:32:06 CST 2026
+comment0.target=Encargado
+comment1.params=id nombre telefono direccion
+comment1.target=Encargado(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.target=java.lang.String getDireccion()
+comment3.params=direccion
+comment3.target=void setDireccion(java.lang.String)
+numComments=4
