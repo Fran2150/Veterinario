@@ -1,0 +1,15 @@
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.AssemblyInfoInputs.cache
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.AssemblyInfo.cs
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.csproj.CoreCompileInputs.cache
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\bin\Debug\net10.0\ConsultorioVeterinario.exe
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\bin\Debug\net10.0\ConsultorioVeterinario.deps.json
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\bin\Debug\net10.0\ConsultorioVeterinario.runtimeconfig.json
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\bin\Debug\net10.0\ConsultorioVeterinario.dll
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\bin\Debug\net10.0\ConsultorioVeterinario.pdb
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.dll
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\refint\ConsultorioVeterinario.dll
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.pdb
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ConsultorioVeterinario.genruntimeconfig.cache
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\ref\ConsultorioVeterinario.dll
+C:\Users\PORTATIL MF\OneDrive - Universidad Mariano Gálvez\Escritorio\Programación\Veterinario\ConsultorioVeterinario\ConsultorioVeterinario\obj\Debug\net10.0\Consulto.CC4DB3A9.Up2Date
