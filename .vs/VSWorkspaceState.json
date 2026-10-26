@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsultorioVeterinario",
-    "\\ConsultorioVeterinario\\Logica"
+    "\\Clases"
   ],
-  "SelectedNode": "\\ConsultorioVeterinario\\Logica\\Mascota.cs",
+  "SelectedNode": "\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

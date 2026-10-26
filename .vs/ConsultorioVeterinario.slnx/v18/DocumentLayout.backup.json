@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|c:\\users\\portatil mf\\onedrive - universidad mariano g\u00E1lvez\\escritorio\\programaci\u00F3n\\veterinario\\consultorioveterinario-v2\\consultorioveterinario\\logica\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{875FC9AC-C415-1C0F-97CE-A3CF30C8EAF1}|ConsultorioVeterinario\\ConsultorioVeterinario.csproj|solutionrelative:consultorioveterinario\\logica\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\RepositorioUniversidad\\Veterinaria\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,97 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\ConexionDB.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\ConexionDB.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\ConexionDB.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\ConexionDB.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAADwv5IAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T06:28:48.247Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cita.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Cita.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\Cita.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Cita.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\Cita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T11:02:52.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Mascota.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\Mascota.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Mascota.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\Mascota.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:21:57.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Veterinario.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Veterinario.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\Veterinario.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Veterinario.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\Veterinario.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:19:08.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Persona.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\Persona.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Persona.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:18:54.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Encargado.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Encargado.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Logica\\Encargado.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Logica\\Encargado.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Logica\\Encargado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:18:38.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Program.cs",
-              "RelativeDocumentMoniker": "ConsultorioVeterinario\\Program.cs",
-              "ToolTip": "C:\\Users\\PORTATIL MF\\OneDrive - Universidad Mariano G\u00E1lvez\\Escritorio\\Programaci\u00F3n\\Veterinario\\ConsultorioVeterinario-V2\\ConsultorioVeterinario\\Program.cs",
-              "RelativeToolTip": "ConsultorioVeterinario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T03:03:07.007Z",
-              "EditorCaption": ""
             }
           ]
         }
